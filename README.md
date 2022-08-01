@@ -1,5 +1,5 @@
 # AmazonScraper_with_TelegramChannelAlert
-# Amazon scraper withnotification on telegram
+# Amazon scraper with notification on telegram
 Amazon scraper with deals notification on a channel on telegram.
 To use this script you mast download "chromedriver.exe"
 In this project was used selenium with xpath.
