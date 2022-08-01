@@ -16,3 +16,6 @@ For notification on telegram here are the steps to follow:
 - Used selenium with xpath
 - Used dataframe for future analytics of scraped data
 - used Chrome
+
+## Channel example
+![](/pic/screeCattura.PNG)
