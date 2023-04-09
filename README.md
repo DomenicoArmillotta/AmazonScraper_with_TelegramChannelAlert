@@ -1,4 +1,3 @@
-# AmazonScraper_with_TelegramChannelAlert
 # Amazon scraper with notification on telegram
 
 The code is used to scrap one or more items simultaneously.
