@@ -15,4 +15,4 @@ For notification on telegram here are the steps to follow:
 
 
 ## Channel example
-![](/pic/image.PNG)
+![](/pic/image.png)
